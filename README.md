@@ -1,0 +1,1 @@
+# Golang-access-struct-fields
